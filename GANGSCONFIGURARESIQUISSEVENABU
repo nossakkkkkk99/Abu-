@@ -10,7 +10,13 @@
         "Poderes": [
             "RaioFP",
             "Raio",
-            "DashV2"
+            "DashV2",
+            "SusanoV1",
+            "SusanoGrande",
+            "Abu",
+            "Colateral",
+            "I got this"
+
         ],
 
         "TeamCor": [0, 0, 0],
