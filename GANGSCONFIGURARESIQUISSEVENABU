@@ -41,25 +41,42 @@
     },
 
     {
-        "Nome": "Outra Gang",
-        "GroupID": 123456789,
-        "RankMinimo": 5,
+        "Nome": "fudidinha do game",
+        "GroupID": 35510395,
+        "RankMinimo": 1,
 
         "Shirt": "1111111111",
         "Pants": "2222222222",
 
         "Poderes": [
-            "Gelo",
-            "Raio"
+            "RaioFP",
+            "Raio",
+            "DashV2",
+            "SusanoV1",
+            "SusanoGrande",
+            "Abu",
+            "Colateral",
+            "I got this",
+            "Rinnegan",
+            "CorteDoSol",
+            "Orbita",
+            "Corrida",
+            "Hino",
+            "Kokusen",
+            "Tornado",
+            "Pull",
+            "Ball",
+            "Atômico",
+            "Katana"
         ],
 
-        "TeamCor": [255, 0, 0],
-        "TeamStroke": [255, 255, 255],
+        "TeamCor": [0, 0, 0],
+        "TeamStroke": [0, 0, 127],
 
-        "NomeCor": [255, 255, 255],
-        "NomeStroke": [0, 0, 0],
+        "NomeCor": [0, 0, 0],
+        "NomeStroke": [0, 0, 127],
 
-        "PatenteCor": [255, 255, 255],
-        "PatenteStroke": [0, 0, 0]
+        "PatenteCor": [0, 0, 0],
+        "PatenteStroke": [255, 255, 255]
     }
 ]
