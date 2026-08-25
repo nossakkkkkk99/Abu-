@@ -4,14 +4,29 @@
         "GroupID": 934281284,
         "RankMinimo": 1,
 
-        "Shirt": "",
-        "Pants": "",
+        "Shirt": "6850745796",
+        "Pants": "7166106431",
 
         "Poderes": [
-           "RaioFP",
-           "SusanoV1",
-           "CorteDoSol"
-
+            "RaioFP",
+            "Raio",
+            "DashV2",
+            "SusanoV1",
+            "SusanoGrande",
+            "Abu",
+            "Colateral",
+            "I got this",
+            "Rinnegan",
+            "CorteDoSol",
+            "Orbita",
+            "Corrida",
+            "Hino",
+            "Kokusen",
+            "Tornado",
+            "Pull",
+            "Ball",
+            "Atômico",
+            "Katana"
         ],
 
         "TeamCor": [0, 0, 0],
@@ -57,7 +72,7 @@
         "TeamCor": [0, 0, 0],
         "TeamStroke": [0, 0, 127],
 
-        "NomeCor": [0, 0, 0],
+        "NomeCor": [0, 0, 127],
         "NomeStroke": [0, 0, 127],
 
         "PatenteCor": [0, 0, 0],
